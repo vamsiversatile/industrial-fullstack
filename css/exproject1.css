@@ -1,0 +1,25 @@
+.a{
+    height: 700px;
+    width: 1800px;
+    background-color: rgb(255, 245, 230);
+  }
+.b{
+    height: 700px;
+    width: 1200px;
+     background-image: url('imagess/vee.jpg');
+}
+ .c{
+    height: 400px;
+    width: 1800px;
+     background-image: url('imagess/sas.jpg');
+    }
+    .d{
+        height: 1000px;
+        width: 100%;
+        background-color:rgb(255, 240, 221) ;
+    }
+    .e{
+        height: 700px;
+        width: 1800px;
+        background-color: white;
+    }

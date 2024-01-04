@@ -1,0 +1,433 @@
+.a{
+    height: 5000px;
+    width: 100%;
+    background-color: rgb(255, 245, 230);
+    float: right;
+    font-size: large;
+  }
+.b{
+    height: 2000px;
+    width: 50%;
+     background-image: url('imagess/vee.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;    
+}
+ .c{
+    height: 1800px;
+    width: 100%;
+     background-image: url('imagess/sas.jpg');
+     background-repeat: no-repeat;
+     background-size: cover; 
+    }
+    .ss{
+        font-size: 250px;
+        color: white;
+        text-align: center; 
+        margin-top: 400px;
+    }
+    .d{
+        height: 4000px;
+        width: 100%;
+        background-color:rgb(255, 240, 221) ;
+    }
+    .e{
+        height: 2000px;
+        width: 100%;
+        background-color: white;
+    }
+    .f{
+        height: 3500px;
+        width: 100%;
+        background-image: url('imagess/tttii.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .hh{
+        height: 2000px;
+        width: 35%;
+        background-color: white;
+        border-radius: 50px;
+        position: relative;
+        top: 450px;left: 3000px;
+    }
+    .g{
+        height: 4000px;
+        width: 100%;
+        background-color: white;
+    }
+    .h{
+        height: 700px;
+        width: 100%;
+        background-color: rgb(224, 93, 5);
+    }
+    .i{
+        height: 2800px;
+        width: 100%;
+        background-image: url('imagess/our.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .j{
+        height: 2800px;
+        width: 100%;
+        background-color:cornsilk;
+    }
+    .k{
+        height: 2800px;
+        width: 50%;
+        background-image: url('imagess/min.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        float: right;
+        position: static;
+    }
+    .l{
+        height: 150px;
+        width: 100%;
+        background-color: black;
+    }
+    .va{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/buguntee.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .ms{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/mixed.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .iv{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/cheese.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 200px;
+        border-radius: 425px;
+    }
+    .ki{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/milk.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .rk{
+        height: 2000px;
+        width: 2000px;
+        border: 1px solid black;
+        background-image: url('imagess/cook.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 1000px;
+        position: relative;
+        top: 1000px;left: 200px;
+    }
+    .sh{
+        height: 1200px;
+        width: 1100px;
+        border: 1px solid black;
+        background-color: rgb(252, 125, 79);
+        position: relative;
+        top: 1200px;left: 800px;
+        float: left; border-radius: 50px;
+    }
+    .hs{
+        height: 1200px ;
+        width: 1100px;
+        border: 1px solid black;
+        background-color: rgb(68, 68, 68);
+        position: relative;
+        top: 1200px;left: 900px;
+        float: left;border-radius: 50px;
+    }
+    .na{
+        height:1200px ;
+        width: 1100px;
+        border: 1px solid black;
+        background-color: rgb(252, 125, 79);
+        position: relative;
+        top: 1200px;left: 1000px;
+        float: left;border-radius: 50px;
+    }
+    .ay{
+        height: 3300px;
+        width: 100%;
+        border: 1px solid white;
+        margin-top: 500px;
+    }
+    .ya{
+        height: 1600px;
+        width: 100%;
+        border: 1px solid white;
+    }
+    .oo{
+        height: 1600px;
+        width: 24.5%;
+        border: 1px solid white;
+        float: left;
+    }
+    .aa{
+        height: 1600px;
+        width: 24.5%;
+        float: left;
+    }
+    .df{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/brown.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .oi{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/farming.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .lk{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/cornitto.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .op{
+        height: 850px;
+        width: 850px;
+        border: 1px solid black;
+        background-image: url('imagess/cinna.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 425px;
+        margin-left: 200px;
+    }
+    .h1{
+        margin-left: 200px;
+    }
+    .pp{
+        height: 1500px;
+        width: 1000px;
+        border: 1px white;
+        background-color: white;
+        float: left;
+        position: relative;
+        top: 400px;left: 400px;
+        border-radius: 80px;
+        margin-left: 80px;
+    } 
+    .qq{
+        font-size: 100px;
+        color: white;
+        position: relative;
+        top: 620px;left: 960px;
+    }
+    .but{
+        height: 150px;
+        width: 500px;
+        border: 1px solid rgb(224, 93, 5);;
+        font-size: 60px;
+        background-color: rgb(224, 93, 5);
+        color: white;
+        position: relative;
+        left: 1750px;top: 750px;
+        border-radius: 70px;
+    }
+    .ton{
+        height: 150px;
+        width: 500px;
+        border: 1px solid white;
+        font-size: 60px;
+        background-color: rgba(224, 93, 5, 0.007);
+        color: white;
+        position: relative;
+        left: 1780px;top: 750px;
+        border-radius: 70px;
+    }
+    .gg{
+        font-size: 100px;
+        color:rgb(224, 93, 5) ;
+        float: right;
+        position: relative;
+        right: 500px;top: 450px;
+    }
+    .bb{
+        height: 120px;
+        width: 600px;
+        font-size: 60px;
+        color: white;
+        border: 1px solid rgb(224, 93, 5);
+        background-color: rgb(224, 93, 5);
+        border-radius: 60px;
+        position: relative;
+        top: 150px;
+    }
+    .mk{
+        font-size: 100px;
+        position: relative;
+        top: 500px;left: 500px;
+        float: left;
+    } 
+    .km{
+        font-size: 60PX;
+        color: rgb(224, 93, 5);
+        position: relative;
+        right: 320px;top: 1300px;
+        float: left;
+    }
+    .kms{
+        font-size: 60PX;
+        color: rgb(224, 93, 5);
+        position: relative;
+        right: 650px;top: 2100px;
+        float: left;
+    }
+    .kk{
+        font-size: 120PX;
+        position: relative;
+        top: 950px;right: 250PX;
+        float: right;
+    }
+    .ll{
+        font-size: 50px;
+        border: 1px solid rgb(224, 93, 5);
+        background-color: rgb(224, 93, 5);
+        color: white;
+        height: 150px;
+        width: 500px;
+        border-radius: 80px;
+        position: relative;
+        top: 200px;
+    }
+    .ff{
+        font-size: 100px;
+        position: relative;
+        top: 650px;left: 1400px;
+    }
+    .rr{
+        font-size: 80px;
+        height: 150px;
+        width: 500px;
+        background-color: rgb(224, 93, 5);
+        border: 1px solid rgb(224, 93, 5);
+        color: white;
+        border-radius: 60px;
+        position: relative;
+        top: 750px;left: 2500px;
+    }
+    .ee{
+        font-size: 50px;
+        color: white;
+        position: relative;
+        top: 250px;left: 800px;
+    }
+    .zz{
+        font-size: 70px;
+        color: white;
+        border: 1px solid white;
+        background: rgba(245, 222, 179, 0);
+        position: relative;
+        bottom: 90px;right: 230px;
+        float: right;
+        border-radius: 40px;
+    }
+    #vv{
+        height: 200px;
+        width: 200px;
+        color:  rgb(224, 93, 5);
+        background-color: white;
+        border-radius: 100px;
+        position: relative;
+        top: 40px;left: 550px;
+    }
+    .zx{
+        height: 400px;
+        width: 400px;
+        border: 1px solid  rgb(248, 121, 36);
+        background-color:  rgb(248, 121, 36);
+        border-radius: 200px;
+        position: relative;
+        top: 150px;left: 290px;
+    }
+    .xz{
+        font-size: 60px;
+        position: relative;
+        top: 200px;left: 200px;
+    }
+    .aaz{
+        font-size: 200px;
+        color: white;
+        position: relative;
+        top: 70px;left: 90px;
+    }
+    .mnb{
+        font-size: 60px;
+        color: white;
+        text-align: justify;
+        position: relative;
+        top: 20px;left: 30px;
+    }
+    .re{
+        font-size: 60px;
+        position: relative;
+        top: 300px;left: 360px;
+        color:   rgb(248, 121, 36);
+    }
+    .er{
+        font-size: 80px;
+        text-align: justify;
+        position: relative;
+        top: 300px;left: 30px;
+    }
+    .fg{
+        height: 200px;
+        width: 600px;
+        font-size: 80px;
+        color: white;
+        background-color: rgb(248, 121, 36) ;
+        border: 1px solid rgb(248, 121, 36);
+        border-radius: 100px;
+        position: relative;
+        top: 500px;left: 50px;
+    }
+    .yt{
+        font-size: 45px;
+        position: relative;
+        top: 10px;left: 330px;
+    }
+    .tv{
+        color:  rgb(248, 121, 36);
+        font-size: 120px;
+        position: relative;
+        top: 50px;left: 400px;
+    }
+    .ggh{
+        font-size: 90px;
+        text-align: center;
+        position: relative;
+        top: 100px;
+    }
