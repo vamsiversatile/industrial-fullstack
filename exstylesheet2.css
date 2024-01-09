@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 1px limegreen;
+}
+div{
+     height: 100%;
+     width: 100%;
+     background-color: darkgray;
+}
+.hi{
+    height: 950px;
+    width: 950px;
+    background-color: white;
+    border: 5PX solid black;
+}
+table{
+    height: 800px;
+    width: 800px;
+    margin-top: 30px;
+}
+.a{
+    height: 90px;
+    width: 90px;
+    background-color: lightblue;
+}
+.b{
+    height: 90px;
+    width: 90px;
+    background-color: lightseagreen;
+}
+h2{
+    text-align: center;
+}
+P{
+    text-align: center;
+}

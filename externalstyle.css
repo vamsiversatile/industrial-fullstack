@@ -1,0 +1,44 @@
+.vamsi{
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    border: 1px gold;
+}
+#sai{
+    height: 300px;
+    width: 300px;
+    background-color: darkorange;
+}
+#ias{
+    height: 150px;
+    width: 300px;
+    background-color: darkslategray;
+}
+span{
+    font-size: 90px;
+    color: lime;
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+*{
+ font-family: 'Courier New', Courier, monospace;
+ background-color: lightslategray;
+ margin: 0px;
+ padding: 0px;
+}
+input[type="text"]{
+    color: chocolate;
+}
+a:link{
+    color: aqua ;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: navy;
+    font-size: 90px;
+}
+a:active{
+    color: darkred;
+}
